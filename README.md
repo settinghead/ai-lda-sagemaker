@@ -8,7 +8,7 @@ This Notebook presents the simple use case of training and deploying a topic mod
 <table>
   <tr>
     <td>
-        <img src="Rangle-logo-red.svg" alt="Rangle Logo" style="width: 200px;"/>
+	<a href="https://rangle.io"><img src="rangle_wordmark_red.png" alt="Rangle Logo" style="width: 150px;"/></a>
     </td>
     <td>
 
