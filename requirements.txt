@@ -1,0 +1,4 @@
+seaborn>=0.9.0
+boto3>=1.9.28
+matplotlib>=2.2.2
+sagemaker>=1.11.3

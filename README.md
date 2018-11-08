@@ -22,4 +22,10 @@ We work with our clients together to integrate AI into their product strategy de
 
 ## Before You Start
 
+Make sure you have all the Python 3 module requirements met. You could simply run
+
+```
+pip3 install -r requirements.txt
+```
+
 Running this notebook might incure costs. Please make sure you are aware of the costs and don't forget to delete any remaining resources when you're finished.
