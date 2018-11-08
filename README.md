@@ -1,6 +1,6 @@
 # LDA on Sagemaker
 
-This Notebook presents the simple use case of training and deploying a topic model in the cloud.
+This Notebook presents the simple use case of training and deploying a topic model to the cloud.
 
 
 ## Who We Are
@@ -18,3 +18,8 @@ We work with our clients together to integrate AI into their product strategy de
     </td> 
   </tr>
 </table>
+
+
+## Before You Start
+
+Running this notebook might incure costs. Please make sure you are aware of the costs and don't forget to delete any remaining resources when you're finished.
